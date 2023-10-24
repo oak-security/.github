@@ -10,15 +10,6 @@ We also serve **Ethereum and EVM-compatible ecosystems** through our brand [Soli
 
 :star: To ensure the highest quality results in our engagements we follow our **signature methodology** "The Blinded Process". [Read this post](https://medium.com/oak-security/there-is-no-perfect-methodology-our-unique-multi-layered-approach-to-security-audits-15e6a9fc7c0f) to learn all the details.
 
-# How we can support you
-
-Our services cover all aspects of your software lifecycle to on-going operational security:
-- **Architecture**: whitepapers, protocol design documents, economic models, governance models...
-- **Layer 1**: rode implementations, consensus protocols, cryptographic primitives...
-- **Layer 2**: roll-up processors, cross-layer communication, settlement protocols…
-- **Smart Contracts**: decentralized finance (DeFi), identity, governance protocols, DAOs..
-- **Off-chain**: DApps, wallets, bridges, data aggregation/indexing layers...
-
 # Contact us
 
 - Email us at [info@oaksecurity.io](mailto:info@oaksecurity.io)
