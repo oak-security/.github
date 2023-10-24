@@ -8,6 +8,8 @@ At [Oak Security](https://www.oaksecurity.io/), we offer security auditing and c
 
 We also serve **Ethereum and EVM-compatible ecosystems** through our brand [Solidified](https://www.solidified.io/).
 
+</br>
+
 :star: To ensure the highest quality results in our engagements we follow our **signature blinded process**. [Read this post](https://medium.com/oak-security/there-is-no-perfect-methodology-our-unique-multi-layered-approach-to-security-audits-15e6a9fc7c0f) to learn all the details.
 
 # Contact us
