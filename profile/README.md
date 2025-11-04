@@ -1,6 +1,6 @@
 # Securing the decentralized trustless future
-<img align=left src="https://github.com/oak-security/resources/blob/main/oak-logo/oak-logo-color-for-white-background/oak-logo-color-01.png#gh-light-mode-only" width="400">
-<img align=left src="https://github.com/oak-security/resources/blob/main/oak-logo/oak-logo-white-for-other-backgrounds/oak-logo-white-01.jpg#gh-dark-mode-only" width="400">
+<img align=left src="https://github.com/oak-security/resources/blob/main/brand/logo/png/black_2x.png#gh-light-mode-only" width="300">
+<img align=left src="https://github.com/oak-security/resources/blob/main/brand/logo/png/white_2x.png#gh-dark-mode-only" width="300">
 
 </br></br>
 
